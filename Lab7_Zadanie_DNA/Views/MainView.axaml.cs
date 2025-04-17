@@ -16,8 +16,6 @@ public partial class MainView : UserControl
         wyjscie.Text = "";
         Dictionary<string, int> counts = new();
 
-        if (wejscie.Text != null)
-        {
             string seq = wejscie.Text;
             for (int i = 0; i <= seq.Length - 4; i++)
             {
@@ -31,6 +29,6 @@ public partial class MainView : UserControl
             {
                 wyjscie.Text += $"{pair.Key}: {pair.Value}\n";
             }
-        }
+        
     }
 }
