@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab7_Zadanie_DNA", "Lab7_Zadanie_DNA\Lab7_Zadanie_DNA.csproj", "{6C849A6E-B246-1E51-ADA4-238C469A1E28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab7_Zadanie_DNA.Desktop", "Lab7_Zadanie_DNA.Desktop\Lab7_Zadanie_DNA.Desktop.csproj", "{69B0463A-3853-6C6C-79C8-55CC88FC2D9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C849A6E-B246-1E51-ADA4-238C469A1E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C849A6E-B246-1E51-ADA4-238C469A1E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C849A6E-B246-1E51-ADA4-238C469A1E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C849A6E-B246-1E51-ADA4-238C469A1E28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69B0463A-3853-6C6C-79C8-55CC88FC2D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69B0463A-3853-6C6C-79C8-55CC88FC2D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69B0463A-3853-6C6C-79C8-55CC88FC2D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69B0463A-3853-6C6C-79C8-55CC88FC2D9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7294F2FC-0DD3-4B2F-8E34-3CEBAC5AFB60}
+	EndGlobalSection
+EndGlobal
